@@ -11,10 +11,10 @@ Philip Schrodt. Empirical Comparison of PETRARCH-1 and 2 Verb Dictionaries. NSF 
 
 Philip Schrodt. Technical Forecasting of Political Conflict. Third Workshop on the EU Global Conflict Risk Index, Brussels. (May 2017)
 
-Philip Schrodt. A Practical Guide to Current Developments in Event Data. International Methods Colloquium. (March 2017)
+Philip Schrodt. [A Practical Guide to Current Developments in Event Data. International Methods Colloquium.](https://github.com/openeventdata/Presentations/blob/master/Schrodt.EventData.IMC.pdf) (March 2017)
 Video of the talk and questions: https://www.youtube.com/watch?v=D_uwABtASqY
 
-Philip Schrodt. Event Data: Opportunities, challenges and a few observations on preparing for a career in political methodology in the 21st century. Minnesota Political Methodology Colloqium, University of Minnestoa (April 2016)
+Philip Schrodt. [Event Data: Opportunities, challenges and a few observations on preparing for a career in political methodology in the 21st century.](https://github.com/openeventdata/Presentations/blob/master/Schrodt.EventData.Minnesota.pdf) Minnesota Political Methodology Colloqium, University of Minnestoa (April 2016)
 
 Philip Schrodt. Comparison Metrics for Large Scale Political Event Data Sets. New Directions in Text as Data, New York University (October 2015)
 
